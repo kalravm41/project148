@@ -1,0 +1,11 @@
+Model Information:
+* title:	Light Pole
+* source:	https://sketchfab.com/3d-models/light-pole-19030d0084cf49029a5759ff5597cce2
+* author:	Ravi Teja VFX (https://sketchfab.com/ravi.dhoni.dsvrr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Light Pole" (https://sketchfab.com/3d-models/light-pole-19030d0084cf49029a5759ff5597cce2) by Ravi Teja VFX (https://sketchfab.com/ravi.dhoni.dsvrr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
